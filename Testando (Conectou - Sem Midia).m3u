@@ -1,0 +1,212 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD",Rede CNT Salvador (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+#EXTINF:-1 group-title="Documentarios",A&E
+https://nexustvplay.bbroot.com/api/stream/ae/ae.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Variedades", Adult Swim (HD)
+https://nexustvplay.bbroot.com/api/stream/adultswim/adultswim.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes", Amazon Prime Video 01 (FHD)
+https://nexustvplay.bbroot.com/api/stream/primevideo/primevideo.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes", Amazon Prime Video 02 (FHD)
+https://nexustvplay.bbroot.com/api/stream/primevideo2/primevideo2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes", Amazon Prime Video 04 (FHD)
+https://nexustvplay.bbroot.com/api/stream/primevideo4/primevideo4.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries", AMC (HD)
+https://nexustvplay.bbroot.com/api/stream/amc/amc.m3u8
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Filmes e Séries", AMC Séries (HD)
+http://64.31.23.207:80/59471019/60849037/324530.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentários", Animal Planet (HD)
+https://nexustvplay.bbroot.com/api/stream/animalplanet/animalplanet.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries", AXN (Opção 3)
+https://nexustvplay.bbroot.com/api/stream/axn/axn.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Notícias", Band News (HD)
+https://nexustvplay.bbroot.com/api/stream/bandnews/bandnews.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta", Band SP (HD)
+https://nexustvplay.bbroot.com/api/stream/bandsp/bandsp.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes", BAND SPORTS HD (HD)
+https://nexustvplay.bbroot.com/api/stream/bandsports/bandsports.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br@SD",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes", Canal OFF (HD)
+https://nexustvplay.bbroot.com/api/stream/off/off.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD", Canal Rural (Opção 1)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta", Canção Nova (HD)
+https://nexustvplay.bbroot.com/api/stream/cancaonova/cancaonova.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil", Cartoon Network (HD)
+https://nexustvplay.bbroot.com/api/stream/cartoonnetwork/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil", Cartoonito (HD)
+https://nexustvplay.bbroot.com/api/stream/cartoonito/cartoonito.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 1 (FHD)
+https://nexustvplay.bbroot.com/api/stream/caze1/caze1.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 2 (FHD)
+https://nexustvplay.bbroot.com/api/stream/caze2/caze2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 3 (FHD)
+https://nexustvplay.bbroot.com/api/stream/caze3/caze3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries", Cinemax (HD)
+https://nexustvplay.bbroot.com/api/stream/cinemax/cinemax.m3u8
+#EXTINF:-1 tvg-id="CinturaoVerde.br@SD",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Notícias", CNN Brasil (HD)
+https://nexustvplay.bbroot.com/api/stream/cnnbrasil/cnnbrasil.m3u8
+#EXTINF:-1 tvg-logo="http://logos.appscms.xyz/logos/2025/comedycentral.png" group-title="Variedades", Comedy Central (FHD)
+http://64.31.23.207:80/59471019/60849037/324380.m3u8
+#EXTINF:-1 tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="Esportes", DAZN (Jogo 2) (SD)
+http://64.31.23.207:80/59471019/60849037/3460240.m3u8
+#EXTINF:-1 tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="Esportes", DAZN (Jogo 3) (SD)
+http://64.31.23.207:80/59471019/60849037/3460241.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Filmes e Séries", Disney Plus 1 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/disneyplus1/disneyplus1.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Filmes e Séries", Disney Plus 2 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/disneyplus2/disneyplus2.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Filmes e Séries", Disney Plus 3 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/disneyplus3/disneyplus3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes", ESPN (Opção 3)
+https://nexustvplay.bbroot.com/api/stream/espn/espn.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes", ESPN 2 (HD)
+https://nexustvplay.bbroot.com/api/stream/espn2/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes", ESPN 3 (Opção 3)
+https://nexustvplay.bbroot.com/api/stream/espn3/espn3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 (Opção 2)
+https://nexustvplay.bbroot.com/api/stream/espn4/espn4.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes", ESPN 5 (HD)
+https://nexustvplay.bbroot.com/api/stream/espn5/espn5.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes", ESPN 6 (HD)
+https://nexustvplay.bbroot.com/api/stream/espn6/espn6.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades", Food Network (HD)
+https://nexustvplay.bbroot.com/api/stream/foodnetwork/foodnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo DF (HD)
+https://nexustvplay.bbroot.com/api/stream/globodf/globodf.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo ES (HD)
+https://nexustvplay.bbroot.com/api/stream/globoes/globoes.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo MG (FHD)
+https://nexustvplay.bbroot.com/api/stream/globomg/globomg.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="TV Aberta", Globo RJ (FHD)
+https://nexustvplay.bbroot.com/api/stream/globorj/globorj.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo RS (FHD)
+https://nexustvplay.bbroot.com/api/stream/globors/globors.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo SP (FHD)
+https://nexustvplay.bbroot.com/api/stream/globosp/globosp.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Notícias", GloboNews (HD)
+https://nexustvplay.bbroot.com/api/stream/globonews/globonews.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantil", Gloob (Opção 2)
+https://nexustvplay.bbroot.com/api/stream/gloob/gloob.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Variedades", GNT (Opção 2)
+https://nexustvplay.bbroot.com/api/stream/gnt/gnt.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries", HBO (HD)
+https://nexustvplay.bbroot.com/api/stream/hbo/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries", HBO Family (FHD)
+https://nexustvplay.bbroot.com/api/stream/hbofamily/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries", HBO Mundi (HD)
+https://nexustvplay.bbroot.com/api/stream/hbomundi/hbomundi.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries", HBO Plus (FHD)
+https://nexustvplay.bbroot.com/api/stream/hboplus/hboplus.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries", HBO Pop (HD)
+https://nexustvplay.bbroot.com/api/stream/hbopop/hbopop.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries", HBO2 (HD)
+https://nexustvplay.bbroot.com/api/stream/hbo2/hbo2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86cfDFx.png" group-title="Infantil", Kids Mais (SD)
+http://64.31.23.207:80/59471019/60849037/1882637.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Filmes e Séries", MAX 03 (FHD)
+https://nexustvplay.bbroot.com/api/stream/max3/max3.m3u8
+#EXTINF:-1 tvg-id="MBCBrasilTV.br@SD",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries", Megapix (HD)
+https://nexustvplay.bbroot.com/api/stream/megapix/megapix.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Variedades", MTV (FHD)
+https://nexustvplay.bbroot.com/api/stream/mtv/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/multishow.png" group-title="Variedades", Multishow (HD)
+https://nexustvplay.bbroot.com/api/stream/multishow/multishow.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Filmes e Séries", Paramount Plus 1 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/paramountplus/paramountplus.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Filmes e Séries", Paramount Plus 2 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/paramountplus2/paramountplus2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 2 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere2/premiere2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 3 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere3/premiere3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 4 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere4/premiere4.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 5 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere5/premiere5.m3u8
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 6 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere6/premiere6.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 7 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere7/premiere7.m3u8
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 8 (HD)
+https://nexustvplay.bbroot.com/api/stream/premiere8/premiere8.m3u8
+#EXTINF:-1 tvg-logo="https://vipcanais.net/images/amazonprimevideo.png" group-title="Filmes e Séries", Prime Video 3 (Desconhecida)
+https://nexustvplay.bbroot.com/api/stream/primevideo3/primevideo3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record MG (HD)
+https://nexustvplay.bbroot.com/api/stream/recordmg/recordmg.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record RJ (HD)
+https://nexustvplay.bbroot.com/api/stream/recordrj/recordrj.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record SP (HD)
+https://nexustvplay.bbroot.com/api/stream/recordsp/recordsp.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.gs/logos/canais/redefamilia.png" group-title="TV Aberta", Rede Família (FHD)
+http://64.31.23.207:80/59471019/60849037/3459544.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta", Rede Vida (Opção 5)
+https://nexustvplay.bbroot.com/api/stream/redevida/redevida.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta", SBT MA (HD)
+http://64.31.23.207:80/59471019/60849037/324295.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta", SBT MT (FHD)
+http://64.31.23.207:80/59471019/60849037/324297.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta", SBT PI (FHD)
+http://64.31.23.207:80/59471019/60849037/324300.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta", SBT RJ (FHD)
+https://nexustvplay.bbroot.com/api/stream/sbtrj/sbtrj.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta", SBT SP (FHD)
+https://nexustvplay.bbroot.com/api/stream/sbtsp/sbtsp.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="TV Aberta", SBT TV Jornal PE (HD)
+http://64.31.23.207:80/59471019/60849037/324313.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Infantil", SBT+ Kids (HD)
+http://64.31.23.207:80/59471019/60849037/324284.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Filmes e Séries", SBT+ Novelas (HD)
+http://64.31.23.207:80/59471019/60849037/324283.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Variedades", SBT+ Raiz (HD)
+http://64.31.23.207:80/59471019/60849037/324285.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries", Sony Channel (Opção 3)
+https://nexustvplay.bbroot.com/api/stream/sonychannel/sonychannel.m3u8
+#EXTINF:-1 tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="Filmes e Séries", Sony One Emoções (HD)
+http://64.31.23.207:80/59471019/60849037/324517.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries", Space (HD)
+https://nexustvplay.bbroot.com/api/stream/space/space.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes", SporTV (Opção 2)
+https://nexustvplay.bbroot.com/api/stream/sportv/sportv.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes", SporTV 2 (Opção 2)
+https://nexustvplay.bbroot.com/api/stream/sportv2/sportv2.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes", SporTV 3 (Opção 3)
+https://nexustvplay.bbroot.com/api/stream/sportv3/sportv3.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries", Studio Universal (HD)
+https://nexustvplay.bbroot.com/api/stream/studiouniversal/studiouniversal.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries", Telecine Action (HD)
+https://nexustvplay.bbroot.com/api/stream/telecineaction/telecineaction.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries", Telecine Cult (HD)
+https://nexustvplay.bbroot.com/api/stream/telecinecult/telecinecult.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries", Telecine Fun (HD)
+https://nexustvplay.bbroot.com/api/stream/telecinefun/telecinefun.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries", Telecine Pipoca (HD)
+https://nexustvplay.bbroot.com/api/stream/telecinepipoca/telecinepipoca.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries", Telecine Premium (HD)
+https://nexustvplay.bbroot.com/api/stream/telecinepremium/telecinepremium.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries", Telecine Touch (HD)
+https://nexustvplay.bbroot.com/api/stream/telecinetouch/telecinetouch.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries", TNT (HD)
+https://nexustvplay.bbroot.com/api/stream/tnt/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tntnovelas.png" group-title="Filmes e Séries", TNT Novelas (HD)
+https://nexustvplay.bbroot.com/api/stream/tntnovelas/tntnovelas.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries", TNT Séries (SD)
+https://nexustvplay.bbroot.com/api/stream/tntseries/tntseries.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta", TV Cultura (Opção 11)
+https://nexustvplay.bbroot.com/api/stream/cultura/cultura.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades", TV Pai Eterno (Opção 5)
+https://nexustvplay.bbroot.com/api/stream/tvpaieterno/tvpaieterno.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Infantil", TV Zyn (FHD)
+http://64.31.23.207:80/59471019/60849037/324286.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries", Universal TV (HD)
+https://nexustvplay.bbroot.com/api/stream/universaltv/universaltv.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries", Warner (HD)
+https://nexustvplay.bbroot.com/api/stream/warnerchannel/warnerchannel.m3u8
+#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes", X Sports (HD)
+https://nexustvplay.bbroot.com/api/stream/xsports/xsports.m3u8

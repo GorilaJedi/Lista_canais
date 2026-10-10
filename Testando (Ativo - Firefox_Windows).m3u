@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes", Disney+ 05
+http://64.31.23.207:80/59471019/60849037/296919.m3u8
+#EXTINF:-1 tvg-logo="http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png" group-title="24 Horas", FILHINHO DA MAMAE
+http://64.31.23.207:80/59471019/60849037/2945301.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Esportes", NBA 01
+http://64.31.23.207:80/59471019/60849037/514097.m3u8

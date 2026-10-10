@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes", Disney+ 01
+http://64.31.23.207:80/59471019/60849037/296915.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@BR", Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-id="TVShowFortaleza.br@SD", TV Show Fortaleza
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8

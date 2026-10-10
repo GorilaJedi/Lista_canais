@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="Esportes", Canal GOAT (Jogo 3)
+http://64.31.23.207:80/59471019/60849037/3460245.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes", Disney+ 02
+http://64.31.23.207:80/59471019/60849037/296916.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes", Paramount+ (Jogo 2)
+http://64.31.23.207:80/59471019/60849037/3460172.m3u8
